@@ -41,11 +41,12 @@ El módulo de Programación en el grado superior de Desarrollo de Aplicaciones M
     - *Implementación de cifrado y autenticación en el desarrollo de software.*
 
 ## Objetivos del módulo:
-    - *Dominar los lenguajes de programación más utilizados en el desarrollo de aplicaciones multiplataforma.*
+
+- *Dominar los lenguajes de programación más utilizados en el desarrollo de aplicaciones multiplataforma.*
     
-    - *Aprender a diseñar y desarrollar aplicaciones funcionales, seguras y eficientes.*
+- *Aprender a diseñar y desarrollar aplicaciones funcionales, seguras y eficientes.*
     
-    - *Adquirir habilidades para trabajar en equipo y gestionar proyectos de desarrollo de software.*
+- *Adquirir habilidades para trabajar en equipo y gestionar proyectos de desarrollo de software.*
 
 ## Metodología:
 El aprendizaje combina teoría y práctica, con actividades como:
