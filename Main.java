@@ -1,5 +1,5 @@
-##Contenido
-Maquina expendedora que calcula a partir de números enteros cuanto deberá devolver
+//##Contenido
+//Maquina expendedora que calcula a partir de números enteros cuanto deberá devolver
 
 
 import java.util.Scanner;
