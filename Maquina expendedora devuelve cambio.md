@@ -1,4 +1,4 @@
-##Contenido
+## Contenido
 Proyecto básico de maquina expendedora que devuelve dinero con números enteros.
 
 ```java
