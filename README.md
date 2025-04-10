@@ -1,6 +1,6 @@
 # 👨‍💻Programación 24/25👨‍💻
-Aquí encontrarás algunas de las practicas llevadas a cabo por mí en el módulo de Progranación.
-El módulo de Programación en el grado superior de Desarrollo de Aplicaciones Multiplataforma es uno de los pilares fundamentales para adquirir las competencias necesarias en el desarrollo de software. Este módulo está diseñado para enseñar a los estudiantes los conceptos básicos y avanzados de la programación, así como las técnicas y herramientas necesarias para crear aplicaciones funcionales y eficientes.
+## Contenido del repositorio
+Aquí encontrarás algunas de las practicas llevadas a cabo por mí en el módulo de Programación.
 
 ## Contenidos principales:
 
