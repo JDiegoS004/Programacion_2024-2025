@@ -4,11 +4,11 @@ El módulo de Programación en el grado superior de Desarrollo de Aplicaciones M
 
 ## Contenidos principales:
 
-- *Introducción al lenguaje de programación Java.*
+- **Introducción al lenguaje de programación Java.**
 
-- *Conceptos básicos como variables, estructuras de control, funciones y arrays.*
+- **Conceptos básicos como variables, estructuras de control, funciones y arrays.**
 
-- *Uso de entornos de desarrollo integrados (IDE) para escribir y depurar código.*
+- **Uso de entornos de desarrollo integrados (IDE) para escribir y depurar código.**
 
 - **Programación orientada a objetos (POO)**:
 
